@@ -1,6 +1,8 @@
 # Aula Prática Sobre Pilhas 
-Estrutura de Dados 
+Estrutura de Dados
+
 Discente: Lucas Batista
+
 23-02-2018
 
 Classe em c++ denominadaCarro com os seguintes dados membros:
